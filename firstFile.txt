@@ -4,7 +4,7 @@ First-File-Line-3 Update 1 git_1
 First-File-Line-4
 First-File-Line-5
 First-File-Line-6
-First-File-Line-7
-First-File-Line-8
+First-File-Line-7 Update 2 git_1
+First-File-Line-8 Update 2 git_1
 First-File-Line-9
 First-File-Line-10
