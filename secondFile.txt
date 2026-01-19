@@ -3,8 +3,8 @@ Second-File-Line-2
 Second-File-Line-3
 Second-File-Line-4
 Second-File-Line-5
-Second-File-Line-6
-Second-File-Line-7
+Second-File-Line-6 Updated git_1
+Second-File-Line-7 Updated git_1
 Second-File-Line-8
 Second-File-Line-9
 Second-File-Line-10
