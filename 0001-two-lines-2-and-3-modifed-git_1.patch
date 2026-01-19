@@ -1,0 +1,25 @@
+From e05e035f48bbcfa8b6fd72a15eee0b82b3303083 Mon Sep 17 00:00:00 2001
+From: Oleksandr Orlov <orlov0ae@gmail.com>
+Date: Tue, 20 Jan 2026 00:47:54 +0200
+Subject: [PATCH] two lines (2 and 3) modifed (git_1)
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 85d8f30..62b1f52 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,6 +1,6 @@
+ First-File-Line-1
+-First-File-Line-2
+-First-File-Line-3
++First-File-Line-2 Update 1 git_1
++First-File-Line-3 Update 1 git_1
+ First-File-Line-4
+ First-File-Line-5
+ First-File-Line-6
+-- 
+2.45.1.windows.1
+
